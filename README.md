@@ -12,8 +12,3 @@ struct { // About Me
     string discord = "@K9ntra";
 } K9ntra;
 ```
-### ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) 
-
-### What I'm Vibing to:
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=r433qbp2wcvjvive683t226zj&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
