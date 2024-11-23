@@ -8,7 +8,7 @@
 struct { // About Me
     string intro = "Hello, I'm Mts7z, just another script programmer for Github and other platforms.";
     vector<string> common_langs = { "CHEF", "vl" };
-    string interest = "I enjoy playing horror and exploration games online.";
+    string interest = "I enjoy playing online.";
     string discord = "@menrdesacato
 ";
 } Matheus;
